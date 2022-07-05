@@ -9,4 +9,4 @@ This is a Descriptive Customer Analysis Dashboard. We will be using the data to 
 5. Revenue Per Category Per Gender
 6. Quantity-Discount Correlation
 
-![This is an image](https://github.com/Sanskar02/Customer-Analysis/blob/aebf708158b3fa9f3805e5d64ff673606af17237/Customer%20Analysis.png)
+![This is an image]()
